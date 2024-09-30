@@ -3,7 +3,7 @@ import requests
 # Replace 'your_api_key_here' with your actual Govee API key
 api_key = 'your_api_key_here'
 headers = {
-    'Govee-API-Key': "9f64e8f8-ba6a-4a8e-8344-2ab77dcb501a",
+    'Govee-API-Key': "Yours Here",
     'Content-Type': 'application/json'
 }
 
