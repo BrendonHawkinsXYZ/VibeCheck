@@ -2,7 +2,7 @@ import requests
 import uuid
 
 # Replace 'your_api_key_here' with your actual Govee API key
-api_key = '9f64e8f8-ba6a-4a8e-8344-2ab77dcb501a'
+api_key = 'Yours Here'
 url = "https://openapi.api.govee.com/router/api/v1/device/control"
 
 headers = {
